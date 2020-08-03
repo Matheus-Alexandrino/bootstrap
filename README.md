@@ -1,2 +1,1 @@
-# bootstrap
-Training at the Bootstrap
+https://matheus-alexandrino.github.io/bootstrap/
